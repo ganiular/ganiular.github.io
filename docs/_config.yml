@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Quadri Ganiu Olawale
+title: Ganiu Olawale Quadri
 email: ganiular@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio of Quadri Ganiu Olawale, a Lagos-based programmer building useful things for the web.
+  Portfolio of Ganiu Olawale Quadri, a Lagos-based programmer building useful things for the web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ganiular.github.io"
 twitter_username: ganiular
