@@ -36,7 +36,7 @@ export const projects: PortfolioProject[] = [
       // { label: "Backend API", href: "https://my-laundry.up.railway.app" },
       {
         label: "Google Play",
-        href: "https://play.google.com/store/apps/details?id=com.gnid.mylaundry",
+        href: "https://play.google.com/store/apps/details?id=live.mylaundry",
       },
     ],
     logo: "/projects/mylaundry/logo.png",
